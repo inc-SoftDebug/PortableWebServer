@@ -1,0 +1,25 @@
+apache
+-> apache\conf\httpd.conf
+-> apache\conf\extra\httpd-multilang-errordoc.conf
+-> apache\conf\extra\httpd-ssl.conf
+-> apache\conf\extra\httpd-vhosts.conf 
+-> apache\conf\extra\httpd-xampp.conf
+-> apache\conf\extra\httpd-autoindex.conf
+-> apache\conf\extra\httpd-dav.conf
+-> apache\conf\extra\httpd-manual.conf
+
+mysql
+-> mysql\data\my.ini
+-> mysql\bin\my.ini
+
+php
+-> php\pci
+-> php\pci.bat
+-> php\pciconf
+-> php\pciconf.bat
+-> php\pear.bat
+-> php\peardev.bat
+-> php\pecl.bat
+-> php\php.ini
+-> php\phpunit
+-> php\phpunit.bat
